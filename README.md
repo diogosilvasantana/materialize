@@ -1,2 +1,0 @@
-# materialize
-Treinando Materialize
